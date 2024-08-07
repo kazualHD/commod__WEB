@@ -577,6 +577,9 @@
  .versions-slider__control {
     display: none
  }
+ .versions-slider {
+    display: none;
+ }
 }
 
 
